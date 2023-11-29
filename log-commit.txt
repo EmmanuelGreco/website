@@ -1,0 +1,6 @@
+84db6bb archivo modificado confirmado
+6b0efcd status.js eliminado main
+adc65c1 On custom-navbar: custom-navabar.js en pausa
+8cd7713 index on custom-navbar: c4abe49 custom-navbar branch creada
+c4abe49 custom-navbar branch creada
+a463212 status.js creado main
